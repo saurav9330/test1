@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="28" started-at="2019-07-28T16:42:10Z" finished-at="2019-07-28T16:42:10Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="28" started-at="2019-07-28T16:42:10Z" finished-at="2019-07-28T16:42:10Z">
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="Slogin()[pri:0, instance:qaclickacademy.SeleniumTest@153f5a29]" name="Slogin" duration-ms="10" started-at="2019-07-28T22:12:10Z" finished-at="2019-07-28T22:12:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Slogin -->
+        <test-method status="PASS" signature="Stest()[pri:0, instance:qaclickacademy.SeleniumTest@153f5a29]" name="Stest" duration-ms="3" started-at="2019-07-28T22:12:10Z" finished-at="2019-07-28T22:12:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Stest -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
